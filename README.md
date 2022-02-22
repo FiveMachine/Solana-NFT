@@ -1,11 +1,11 @@
-# buildspace Solana NFT Drop Project
-### Welcome 👋
-To get started with this course, clone this repo and follow these commands:
+# Solana NFT Drop Project
 
-1. cd into the `app` folder
-2. Run `npm install` at the root of your directory
-3. Run `npm run start` to start the project
-4. Start coding!
+![](https://i.imgur.com/0MiZ5qq.png)
 
-### What is the .vscode Folder?
-If you use VSCode to build your app, we included a list of suggested extensions that will help you build this project! Once you open this project in VSCode, you will see a popup asking if you want to download the recommended extensions :).
+このコースを始めるには、下記のステップを実行してください。
+
+1. あなたのGithubアカウントにこのレポジトリをフォークしましょう。
+2. クローンしたレポジトリをあなたのローカル環境にダウンロードしましょう。
+3. ターミナルを開き、ディレクトリのルートで `npm install` を実行します。
+2. `npm run start` を実行してプロジェクトを開始します。
+3. コーディングを始めましょう。
