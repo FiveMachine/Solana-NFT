@@ -1,6 +1,6 @@
 # Solana NFT Drop Project
 
-![](https://i.imgur.com/0MiZ5qq.png)
+![](https://i.imgur.com/2vEkSJ2.png)
 
 このコースを始めるには、下記のステップを実行してください。
 
