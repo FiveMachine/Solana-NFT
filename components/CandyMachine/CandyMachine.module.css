@@ -1,14 +1,14 @@
-.machine-container {
+.machineContainer {
   display: flex;
   flex-direction: column;
 }
 
-.gif-container {
+.gifContainer {
   display: flex;
   flex-direction: column;
 }
 
-.gif-grid {
+.gifGrid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   grid-gap: 1.5rem;
@@ -17,7 +17,7 @@
   padding: 20px 0 20px 0;
 }
 
-.gif-grid .gif-item {
+.gifGrid .gifItem {
   display: flex;
   flex-direction: column;
   position: relative;
@@ -25,7 +25,7 @@
   align-self: center;
 }
 
-.gif-item img {
+.gifItem img {
   width: 100%;
   height: 200px;
   border-radius: 10px;

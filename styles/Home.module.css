@@ -1,4 +1,4 @@
-.App {
+.main {
   height: 100vh;
   background-color: rgb(20, 20, 20);
   overflow: scroll;
@@ -17,14 +17,14 @@
   /* background-color: #35aee2; */
 }
 
-.authed-container {
+.authedContainer {
   height: 100%;
   display: flex;
   flex-direction: column;
   padding: 30px;
 }
 
-.header-container {
+.headerContainer {
   /* background-color: #60c657; */
 }
 
@@ -34,18 +34,18 @@
   font-weight: bold;
 }
 
-.sub-text {
+.subText {
   font-size: 25px;
 }
 
-.gradient-text {
+.gradientText {
   background: -webkit-linear-gradient(left, #60c657 30%, #35aee2 60%);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
-.cta-button {
+.ctaButton {
   height: 45px;
   border: 0;
   width: auto;
@@ -57,21 +57,21 @@
   font-weight: bold;
 }
 
-.connect-wallet-button {
+.connectWalletButton {
   color: white;
   background: -webkit-linear-gradient(left, #ff8867, #ff52ff);
   background-size: 200% 200%;
   animation: gradient-animation 4s ease infinite;
 }
 
-.mint-button {
+.mintButton {
   background: -webkit-linear-gradient(left, #4e44ce, #35aee2);
   background-size: 200% 200%;
   animation: gradient-animation 4s ease infinite;
   margin-left: 10px;
 }
 
-.footer-container {
+.footerContainer {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -82,18 +82,18 @@
   /* padding-bottom: 45px; */
 }
 
-.twitter-logo {
+.twitterLogo {
   width: 35px;
   height: 35px;
 }
 
-.footer-text {
+.footerText {
   font-size: 16px;
   font-weight: bold;
   color: white;
 }
 
-.connected-container input[type='text'] {
+.connectedContainer input[type='text'] {
   display: inline-block;
   padding: 10px;
   width: 50%;
@@ -106,7 +106,7 @@
   margin: 50px auto;
 }
 
-.connected-container button {
+.connectedContainer button {
   height: 50px;
 }
 
@@ -115,31 +115,39 @@
   0% {
     background-position: 0% 50%;
   }
+
   50% {
     background-position: 100% 50%;
   }
+
   100% {
     background-position: 0% 50%;
   }
 }
+
 @-moz-keyframes gradient-animation {
   0% {
     background-position: 0% 50%;
   }
+
   50% {
     background-position: 100% 50%;
   }
+
   100% {
     background-position: 0% 50%;
   }
 }
+
 @keyframes gradient-animation {
   0% {
     background-position: 0% 50%;
   }
+
   50% {
     background-position: 100% 50%;
   }
+
   100% {
     background-position: 0% 50%;
   }
