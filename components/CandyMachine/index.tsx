@@ -15,6 +15,7 @@ import {
   generateSigner,
   Option,
   publicKey,
+  some,
   transactionBuilder,
 } from '@metaplex-foundation/umi';
 import type { Umi as UmiType } from '@metaplex-foundation/umi';
