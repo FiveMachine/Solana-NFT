@@ -1,6 +1,6 @@
 # Solana NFT Drop Project
 
-![](app/public/Solana-NFT-banner.png)
+![](/public/banner-Intro-NFT-solana.png)
 
 このコースを始めるには、下記のステップを実行してください。
 
